@@ -6,7 +6,7 @@ package net.liexiang.toolutils;
  * author： Gao Chunfa.
  * time： 2017/2/28-10:41.
  */
-public class StringUtil {
+public class MyStringUtil {
 
     /**
      * 比较两个字符串是否相等
